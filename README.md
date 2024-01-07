@@ -1,8 +1,4 @@
 
-# Hasan Fawad Rauf
-
-_Experienced Software Engineer with 8 years in development and testing. Skilled in Ruby, JavaScript, and PHP, with expertise in Agile methodologies. Proven record in ensuring application accessibility, security, and robustness. Holds an MS in IT and a background in Electrical Engineering._
-
 - **Email:** hasanfrauf@gmail.com
 - **Phone:** (214)799-9280
 - **Location:** Dallas, TX
@@ -56,5 +52,5 @@ _Experienced Software Engineer with 8 years in development and testing. Skilled 
 Final Design Project: Android Silent Mode App using Android Studio and Java.
 
 ### The University of Texas at Dallas
-**Bachelorâs Degree, Electrical and Electronics Engineering**  
+**Bachelors Degree, Electrical and Electronics Engineering**  
 *2011 - 2014*
